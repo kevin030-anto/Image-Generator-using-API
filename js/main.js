@@ -1,7 +1,7 @@
 // Say Hello To New Ai Image Generator
 
-const apiKey = "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";
-
+const apiKey = ""; // Add Your Hugging Face API Key Here
+// You Can Get Your API Key From https://huggingface.co/settings/tokens
 const maxImage = 4;
 
 const selectedImageNumber = undefined;
