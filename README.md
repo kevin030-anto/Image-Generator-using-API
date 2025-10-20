@@ -84,5 +84,6 @@ Simply double-click the index.html file or use a live server extension in your c
 ## 📜 License
 Distributed under the MIT License. See LICENSE file for more information.
 
+## 💡 Author
 
-## Project Link: https://github.com/your-username/Image-Generator-using-API
+GitHub: [@kevin030-anto](https://github.com/kevin030-anto)
